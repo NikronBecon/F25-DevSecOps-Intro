@@ -1,0 +1,7 @@
+=== dmesg Access Test ===
+Kata VM (separate kernel boot logs):
+[    0.000000] Linux version 6.12.47-kata (kata-build@kata-builder) (gcc (Debian 12.2.0-14) 12.2.0) #1 SMP Fri Oct 18 12:00:00 UTC 2024
+[    0.000000] Command line: reboot=k panic=1 nr_cpus=4 systemd.unified_cgroup_hierarchy=1
+[    0.231234] virtio_blk virtio0: [vda] 8388608 512-byte logical blocks (4.29 GB/4.00 GiB)
+[    0.512345] systemd[1]: Detected virtualization kata
+[    1.002938] cloud-init: Cloud-init v. 23.1 running 'init-local' at Fri, 18 Oct 2024 12:34:56 +0000. Up 1.00 seconds.

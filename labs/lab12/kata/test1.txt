@@ -1,0 +1,1 @@
+Linux kata-guest 6.12.47-kata #1 SMP Sat Nov 29 12:32:01 UTC 2024 x86_64 Linux
